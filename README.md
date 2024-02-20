@@ -11,3 +11,8 @@
 </h2>
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white">
+
+### Linguagens do repositório:
+
+<img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge"><!-- -->
+<img src="https://img.shields.io/badge/CSS-563D7C?style=for-the-badge"><!-- -->
